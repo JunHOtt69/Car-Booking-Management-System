@@ -6,3 +6,4 @@ dist/
 nbdist/
 
 built-jar.properties
+nbproject/project.properties
