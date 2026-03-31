@@ -1,0 +1,30 @@
+C001
+lzx_0330
+Lee Zhen Sheng
+lee@gmail.com
+12345
+12345
+010101100030
+Empty
+Active
+
+C003
+koukoubird0646
+Lau Hoe Yik
+hoeyik@gmail.com
+12345
+12345
+123
+Empty
+Active
+
+C005
+XDDCC
+Lim Jun Hong
+lim@gmail.com
+12345
+12345
+12345
+Empty
+Active
+
